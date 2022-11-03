@@ -1,36 +1,25 @@
-# Quantum Mechanical Keyboard Firmware
+# Custom 3d-printed Keyboard
+As a challenge to myself i wanted to build a custom mechanical Keyboard.
+With [this Clone of a Keychron Q1](https://github.com/andimoto/keebcu) i found the ideal solution, while also beeing able to print the parts myself on my Prusa Mini.
+Big Thanks @andimoto for providing the STL files!
 
-[![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
-[![Discord](https://img.shields.io/discord/440868230475677696.svg)](https://discord.gg/Uq7gcHh)
-[![Docs Status](https://img.shields.io/badge/docs-ready-orange.svg)](https://docs.qmk.fm)
-[![GitHub contributors](https://img.shields.io/github/contributors/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/pulse/monthly)
-[![GitHub forks](https://img.shields.io/github/forks/qmk/qmk_firmware.svg?style=social&label=Fork)](https://github.com/qmk/qmk_firmware/)
+This Repository serves as the home, for my custom Firmware.
+This is the initial revision talored for an UK-ISO Layout.
+You can find it [here](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/tree/master/keyboards/jeujeus/jeujeus_q1)
 
-This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the [Clueboard product line](https://clueboard.co).
+## Photos of my build
+![](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/blob/96e4c8ab09cd75bfbc82be2d87f412b316f7c8b0/keyboards/jeujeus/jeujeus_q1/img/PXL_20221029_135714529.jpg)
 
-## Documentation
+![](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/blob/96e4c8ab09cd75bfbc82be2d87f412b316f7c8b0/keyboards/jeujeus/jeujeus_q1/img/PXL_20221029_135722638.jpg)
 
-* [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
+![](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/blob/96e4c8ab09cd75bfbc82be2d87f412b316f7c8b0/keyboards/jeujeus/jeujeus_q1/img/PXL_20221102_190328336.jpg)
 
-The docs are powered by [Docsify](https://docsify.js.org/) and hosted on [GitHub](/docs/). They are also viewable offline; see [Previewing the Documentation](https://docs.qmk.fm/#/contributing?id=previewing-the-documentation) for more details.
+![](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/blob/96e4c8ab09cd75bfbc82be2d87f412b316f7c8b0/keyboards/jeujeus/jeujeus_q1/img/PXL_20221102_195915919.jpg)
 
-You can request changes by making a fork and opening a [pull request](https://github.com/qmk/qmk_firmware/pulls), or by clicking the "Edit this page" link at the bottom of any page.
+![](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/blob/96e4c8ab09cd75bfbc82be2d87f412b316f7c8b0/keyboards/jeujeus/jeujeus_q1/img/PXL_20221102_195922562.jpg)
 
-## Supported Keyboards
+![](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/blob/96e4c8ab09cd75bfbc82be2d87f412b316f7c8b0/keyboards/jeujeus/jeujeus_q1/img/PXL_20221102_195925869.jpg)
 
-* [Planck](/keyboards/planck/)
-* [Preonic](/keyboards/preonic/)
-* [ErgoDox EZ](/keyboards/ergodox_ez/)
-* [Clueboard](/keyboards/clueboard/)
-* [Cluepad](/keyboards/clueboard/17/)
-* [Atreus](/keyboards/atreus/)
+![](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/blob/96e4c8ab09cd75bfbc82be2d87f412b316f7c8b0/keyboards/jeujeus/jeujeus_q1/img/PXL_20221103_180612423.jpg)
 
-The project also includes community support for [lots of other keyboards](/keyboards/).
-
-## Maintainers
-
-QMK is developed and maintained by Jack Humbert of OLKB with contributions from the community, and of course, [Hasu](https://github.com/tmk). The OLKB product firmwares are maintained by [Jack Humbert](https://github.com/jackhumbert), the Ergodox EZ by [ZSA Technology Labs](https://github.com/zsa), the Clueboard by [Zach White](https://github.com/skullydazed), and the Atreus by [Phil Hagelberg](https://github.com/technomancy).
-
-## Official Website
-
-[qmk.fm](https://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+![](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/blob/96e4c8ab09cd75bfbc82be2d87f412b316f7c8b0/keyboards/jeujeus/jeujeus_q1/img/PXL_20221103_183121547.jpg)
