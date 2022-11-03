@@ -3,8 +3,8 @@ As a challenge to myself i wanted to build a custom mechanical Keyboard.
 With [this Clone of a Keychron Q1](https://github.com/andimoto/keebcu) i found the ideal solution, while also beeing able to print the parts myself on my Prusa Mini.
 Big Thanks @andimoto for providing the STL files!
 
-This Repository serves as the home, for my custom Firmware.
-This is the initial revision talored for an UK-ISO Layout.
+This Repository serves as the home for my custom Firmware.
+This is the initial revision tailored for an UK-ISO Layout.
 You can find it [here](https://github.com/JeuJeus/qmk_custom-keyboard_firmware/tree/master/keyboards/jeujeus/jeujeus_q1)
 
 ## Photos of my build
